@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <rect
+       style="fill:#20ff20;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+       id="rect234"
+       width="20"
+       height="20"
+       x="2"
+       y="2" />
+    <rect
+       style="fill:#ffc040;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+       id="rect344"
+       width="20"
+       height="20"
+       x="22"
+       y="2" />
+    <rect
+       style="fill:#ff8020;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+       id="rect346"
+       width="20"
+       height="20"
+       x="42"
+       y="2" />
+    <rect
+       style="fill:#ffc040;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+       id="rect354"
+       width="20"
+       height="20"
+       x="2"
+       y="22" />
+    <rect
+       style="fill:#ff2020;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+       id="rect356"
+       width="20"
+       height="20"
+       x="22"
+       y="22" />
+    <rect
+       style="fill:#ffc040;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+       id="rect358"
+       width="20"
+       height="20"
+       x="42"
+       y="22" />
+    <rect
+       style="fill:#ff8020;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+       id="rect360"
+       width="20"
+       height="20"
+       x="2"
+       y="42" />
+    <rect
+       style="fill:#ffc040;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+       id="rect362"
+       width="20"
+       height="20"
+       x="22"
+       y="42" />
+    <rect
+       style="fill:#20ff20;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+       id="rect364"
+       width="20"
+       height="20"
+       x="42"
+       y="42" />
+  </g>
+</svg>
