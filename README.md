@@ -67,10 +67,8 @@
 	Temas Visuales
 </h2>
 <h3 align=center>
-	<img height="240" src="https://github.com/hlmqz/map-grid-density-demo/blob/master/img/demo-light-dark.webp"/>
-	<img height="240" src="https://github.com/hlmqz/map-grid-density-demo/blob/master/img/demo-light-all.webp"/>
-</h3>
-<h3 align=center>
-	<img height="240" src="https://github.com/hlmqz/map-grid-density-demo/blob/master/img/demo-dark-light.webp"/>
-	<img height="240" src="https://github.com/hlmqz/map-grid-density-demo/blob/master/img/demo-dark-all.webp"/>
+	<img height="320" src="https://github.com/hlmqz/map-grid-density-demo/blob/master/img/demo-light-dark.webp"/>
+	<img height="320" src="https://github.com/hlmqz/map-grid-density-demo/blob/master/img/demo-dark-light.webp"/>
+	<img height="320" src="https://github.com/hlmqz/map-grid-density-demo/blob/master/img/demo-dark-all.webp"/>
+ 	<img height="320" src="https://github.com/hlmqz/map-grid-density-demo/blob/master/img/demo-light-all.webp"/>
 </h3>
